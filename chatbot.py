@@ -24,5 +24,5 @@ if file is not None:
         length_function = len
     )
     chunks = text_splitter.split_text(text)
-    st.write(chunks)
+    # st.write(chunks)
 
